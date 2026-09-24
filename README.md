@@ -67,3 +67,5 @@ Actua como desarrollador Java. Crea un ejemplo de login para una aplicacion de e
 
 Prompt de Mejora (Iteracion):
 Mejora el codigo anterior con estas restricciones: no uses librerias externas, valida que el correo contenga @ y que la contrasena tenga al menos 8 caracteres, y muestra los mensajes con JOptionPane.
+
+- [Tarea: mi prompt profesional](prompts/TAREA.md)
